@@ -1,52 +1,17 @@
 {
-  "Name": "Hazard 7x2, 40 Nitra",
-  "Description": "Hazard 7, 2x enemies, 40 nitra resupplies",
+  "Name": "Hazard 7x2, 40 Nitra - Carry Mode",
+  "Description": "Hazard 7, 2x enemies, 40 nitra resupplies - Carry Mode",
   "MaxActiveCritters": 180,
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
   "ResupplyCost": 40,
-  "ExtraLargeEnemyDamageResistance": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceB": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceC": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceD": [
-    2,
-    2.1,
-    2.25,
-    2.45
-  ],
-  "EnemyDamageResistance": [
-    1.6,
-    1.8,
-    1.9,
-    2
-  ],
-  "EnemyDamageModifier": [
-    3.8,
-    4.1,
-    4.4,
-    4.6
-  ],
-  "EnemyCountModifier": [
-    2.3,
-    2.5,
-    2.9,
-    3.5
-  ],
+  "ExtraLargeEnemyDamageResistance": 2.5,
+  "ExtraLargeEnemyDamageResistanceB": 2.5,
+  "ExtraLargeEnemyDamageResistanceC": 2.5,
+  "ExtraLargeEnemyDamageResistanceD": 2.45,
+  "EnemyDamageResistance": 2,
+  "EnemyDamageModifier": 4.6,
+  "EnemyCountModifier": 3.5,
   "EncounterDifficulty": [
     {
       "weight": 1,

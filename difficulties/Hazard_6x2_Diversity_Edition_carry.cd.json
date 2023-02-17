@@ -1,51 +1,16 @@
 {
-  "Name": "Hazard 6x2 - Diversity Edition",
+  "Name": "Hazard 6x2 - Diversity Edition - Carry Mode",
   "Description": "This plays very similarly to normal Hazard 6x2. It's identical except that EnemeyDiversity is always the max. This results in very different enemy compositions. This variant can bring a little spice when Hazard 6x2 is feeling a little too same-y.",
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
-  "ResupplyCost": 40,
-  "ExtraLargeEnemyDamageResistance": [
-    1,
-    1.3,
-    1.7,
-    2.1
-  ],
-  "ExtraLargeEnemyDamageResistanceB": [
-    1,
-    1.3,
-    1.5,
-    1.7
-  ],
-  "ExtraLargeEnemyDamageResistanceC": [
-    1,
-    1.3,
-    1.7,
-    2.1
-  ],
-  "ExtraLargeEnemyDamageResistanceD": [
-    1.5,
-    1.55,
-    1.75,
-    1.9
-  ],
-  "EnemyDamageResistance": [
-    1.4,
-    1.5,
-    1.6,
-    1.75
-  ],
-  "EnemyDamageModifier": [
-    3.3,
-    3.65,
-    3.9,
-    4.1
-  ],
-  "EnemyCountModifier": [
-    1.9,
-    2.1,
-    2.7,
-    3.3
-  ],
+  "ResupplyCost": 60,
+  "ExtraLargeEnemyDamageResistance": 2.1,
+  "ExtraLargeEnemyDamageResistanceB": 1.7,
+  "ExtraLargeEnemyDamageResistanceC": 2.1,
+  "ExtraLargeEnemyDamageResistanceD": 1.9,
+  "EnemyDamageResistance": 1.75,
+  "EnemyDamageModifier": 4.1,
+  "EnemyCountModifier": 3.3,
   "EncounterDifficulty": [
     {
       "weight": 1,

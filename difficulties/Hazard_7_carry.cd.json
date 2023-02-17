@@ -4,48 +4,13 @@
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
   "ResupplyCost": 60,
-  "ExtraLargeEnemyDamageResistance": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceB": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceC": [
-    1.4,
-    1.7,
-    2,
-    2.5
-  ],
-  "ExtraLargeEnemyDamageResistanceD": [
-    2,
-    2.1,
-    2.25,
-    2.45
-  ],
-  "EnemyDamageResistance": [
-    1.6,
-    1.8,
-    1.9,
-    2
-  ],
-  "EnemyDamageModifier": [
-    3.8,
-    4.1,
-    4.4,
-    4.6
-  ],
-  "EnemyCountModifier": [
-    1.15,
-    1.25,
-    1.45,
-    1.75
-  ],
+  "ExtraLargeEnemyDamageResistance": 2.5,
+  "ExtraLargeEnemyDamageResistanceB": 2.5,
+  "ExtraLargeEnemyDamageResistanceC": 2.5,
+  "ExtraLargeEnemyDamageResistanceD": 2.45,
+  "EnemyDamageResistance": 2,
+  "EnemyDamageModifier": 4.6,
+  "EnemyCountModifier": 1.75,
   "EncounterDifficulty": [
     {
       "weight": 1,

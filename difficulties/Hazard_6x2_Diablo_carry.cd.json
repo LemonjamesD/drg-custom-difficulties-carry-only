@@ -3,7 +3,7 @@
   "Description": "This is for fans Hazard 5 with x2 enemies that are looking to add some spice, but don't want to jump to snorting Carolina Reapers in Hazard 6x2. The bugs are a little faster, a little stronger, a little beefier, and there are a few more of them. Variety is the spice of life and that's what you're getting here. With mild, you can expect enemy compositions familiar to Hazard 5 players. With Medium, your team will face more spitters, more bulks, more grabbers, generally more of the spicy enemies. With Hot, your team will face even more variety. You'll face unusual enemy compositions you've never seen before. For the truly adventurous there is Fire. With Fire, the game is free to go wild and you'll face true RNG. Diablo doesn't exist. V2",
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
-  "ResupplyCost": 50,
+  "ResupplyCost": 40,
   "ExtraLargeEnemyDamageResistance": 1.82,
   "ExtraLargeEnemyDamageResistanceB": 1.42,
   "ExtraLargeEnemyDamageResistanceC": 1.75,

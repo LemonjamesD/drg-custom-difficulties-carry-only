@@ -1,9 +1,9 @@
 {
-  "Name": "Hazard 7",
-  "Description": "Imported from Ike's [Hazard 7 on Mod.io](https://drg.mod.io/hazard-7)",
+  "Name": "Hazard 7 - Carry Mode",
+  "Description": "Imported from Ike's [Hazard 7 on Mod.io](https://drg.mod.io/hazard-7) - Carry Mode",
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
-  "ResupplyCost": 50,
+  "ResupplyCost": 60,
   "ExtraLargeEnemyDamageResistance": [
     1.4,
     1.7,

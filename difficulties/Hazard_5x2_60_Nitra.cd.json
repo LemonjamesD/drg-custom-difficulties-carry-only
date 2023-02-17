@@ -1,6 +1,6 @@
 {
-  "Name": "Hazard 5x2, 60 Nitra",
-  "Description": "Hazard 5, 2x enemies, 60 nitra resup cost",
+  "Name": "Hazard 5x2, 60 Nitra - Carry Mode",
+  "Description": "Hazard 5, 2x enemies, 60 nitra resup cost - Carry Mode",
   "ResupplyCost": 60,
   "ExtraLargeEnemyDamageResistance": 1.7,
   "ExtraLargeEnemyDamageResistanceB": 1.3,

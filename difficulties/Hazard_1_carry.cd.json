@@ -1,54 +1,14 @@
 {
-  "Name": "Hazard 1",
-  "Description": "Vanilla Hazard 1",
-  "ExtraLargeEnemyDamageResistance": [
-    0.2,
-    0.4,
-    0.6,
-    0.8
-  ],
-  "ExtraLargeEnemyDamageResistanceB": [
-    0.2,
-    0.4,
-    0.6,
-    0.8
-  ],
-  "ExtraLargeEnemyDamageResistanceC": [
-    0.2,
-    0.4,
-    0.6,
-    0.8
-  ],
-  "ExtraLargeEnemyDamageResistanceD": [
-    0.6,
-    0.75,
-    0.85,
-    1.1
-  ],
-  "EnemyDamageResistance": [
-    0.45,
-    0.55,
-    0.7,
-    0.85
-  ],
-  "SmallEnemyDamageResistance": [
-    0.7,
-    0.7,
-    0.7,
-    0.7
-  ],
-  "EnemyDamageModifier": [
-    0.5,
-    0.5,
-    0.5,
-    0.5
-  ],
-  "EnemyCountModifier": [
-    0.15,
-    0.25,
-    0.45,
-    0.65
-  ],
+  "Name": "Hazard 1 - Carry Mode",
+  "Description": "Vanilla Hazard 1 - Carry Mode",
+  "ExtraLargeEnemyDamageResistance": 0.8,
+  "ExtraLargeEnemyDamageResistanceB": 0.8,
+  "ExtraLargeEnemyDamageResistanceC": 0.8,
+  "ExtraLargeEnemyDamageResistanceD": 1.9,
+  "EnemyDamageResistance": 0.85,
+  "SmallEnemyDamageResistance": 0.7,
+  "EnemyDamageModifier": 0.5,
+  "EnemyCountModifier": 0.65
   "EncounterDifficulty": [
     {
       "weight": 1,

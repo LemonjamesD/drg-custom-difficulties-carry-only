@@ -2,10 +2,11 @@
   "Name": "Hazard 5x2, 60 Nitra",
   "Description": "Hazard 5, 2x enemies, 60 nitra resup cost",
   "ResupplyCost": 60,
-  "EnemyCountModifier": [
-    1.7,
-    1.7,
-    2.5,
-    3
-  ]
+  "ExtraLargeEnemyDamageResistance": 1.7,
+  "ExtraLargeEnemyDamageResistanceB": 1.3,
+  "ExtraLargeEnemyDamageResistanceC": 1.6,
+  "ExtraLargeEnemyDamageResistanceD": 1.65,
+  "EnemyDamageResistance": 1.5,
+  "EnemyDamageModifier": 3.4,
+  "EnemyCountModifier": 1.5
 }

@@ -8,7 +8,7 @@
   "EnemyDamageResistance": 0.85,
   "SmallEnemyDamageResistance": 0.7,
   "EnemyDamageModifier": 0.5,
-  "EnemyCountModifier": 0.65
+  "EnemyCountModifier": 0.65,
   "EncounterDifficulty": [
     {
       "weight": 1,

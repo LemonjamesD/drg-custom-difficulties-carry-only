@@ -4,7 +4,7 @@
   "MaxActiveCritters": 40,
   "MaxActiveSwarmers": 180,
   "MaxActiveEnemies": 180,
-  "ResupplyCost": 40,
+  "ResupplyCost": 50,
   "StartingNitra": 0,
   "ExtraLargeEnemyDamageResistance": 2.1,
   "ExtraLargeEnemyDamageResistanceB": 1.7,

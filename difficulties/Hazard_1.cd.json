@@ -1,6 +1,11 @@
 {
-  "Name": "Hazard 1",
-  "Description": "Vanilla Hazard 1",
+  "Name": "Hazard 1/Hazard 1 - Low Risk",
+  "Description": "",
+  "MaxActiveCritters": 40,
+  "MaxActiveSwarmers": 60,
+  "MaxActiveEnemies": 60,
+  "ResupplyCost": 80,
+  "StartingNitra": 0,
   "ExtraLargeEnemyDamageResistance": [
     0.2,
     0.4,
@@ -20,10 +25,10 @@
     0.8
   ],
   "ExtraLargeEnemyDamageResistanceD": [
-    0.6,
-    0.75,
-    0.85,
-    1.1
+    0.2,
+    0.3,
+    0.5,
+    0.8
   ],
   "EnemyDamageResistance": [
     0.45,
@@ -169,6 +174,7 @@
     "max": 1
   },
   "MinPoolSize": 5,
+  "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 0.7,
   "PointExtractionScalar": 0.7,
   "HazardBonus": 0.25,
@@ -178,5 +184,43 @@
   "AttackCooldownModifier": 0.8,
   "ProjectileSpeedModifier": 1,
   "HealthRegenerationMax": 0.15,
-  "ReviveHealthRatio": 0.6
+  "ReviveHealthRatio": 0.6,
+  "EliteCooldown": 0,
+  "EnemyDescriptors": {},
+  "EnemyPool": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "CommonEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SpecialEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "DisruptiveEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "StationaryEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SeasonalEvents": [
+    "SE_ProspectorDrone",
+    "SE_ProspectorDataDeposit",
+    "SE_RivalBomb"
+  ],
+  "EscortMule": {
+    "FriendlyFireModifier": 0.1,
+    "BigHitDamageModifier": 0.5,
+    "BigHitDamageReductionThreshold": 6,
+    "NeutralDamageModifier": 0.1
+  }
 }

@@ -1,6 +1,11 @@
 {
-  "Name": "Hazard 3.5",
-  "Description": "Vanilla Hazard 3.5",
+  "Name": "Hazard 3.5/Hazard 3.5 - Dangerouser",
+  "Description": "",
+  "MaxActiveCritters": 40,
+  "MaxActiveSwarmers": 60,
+  "MaxActiveEnemies": 60,
+  "ResupplyCost": 80,
+  "StartingNitra": 0,
   "ExtraLargeEnemyDamageResistance": [
     0.6,
     0.65,
@@ -14,16 +19,16 @@
     1.2
   ],
   "ExtraLargeEnemyDamageResistanceC": [
-    1,
-    1,
-    1,
-    1
+    0.4,
+    0.5,
+    0.9,
+    1.2
   ],
   "ExtraLargeEnemyDamageResistanceD": [
-    0.95,
-    1.15,
-    1.35,
-    1.35
+    0.6,
+    0.65,
+    0.85,
+    1.1
   ],
   "EnemyDamageResistance": [
     0.85,
@@ -205,6 +210,7 @@
     "max": 2
   },
   "MinPoolSize": 6,
+  "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 0.95,
   "PointExtractionScalar": 0.95,
   "HazardBonus": 0.75,
@@ -214,5 +220,43 @@
   "AttackCooldownModifier": 1.15,
   "ProjectileSpeedModifier": 1.15,
   "HealthRegenerationMax": 0.15,
-  "ReviveHealthRatio": 0.4
+  "ReviveHealthRatio": 0.4,
+  "EliteCooldown": 0,
+  "EnemyDescriptors": {},
+  "EnemyPool": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "CommonEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SpecialEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "DisruptiveEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "StationaryEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SeasonalEvents": [
+    "SE_ProspectorDrone",
+    "SE_ProspectorDataDeposit",
+    "SE_RivalBomb"
+  ],
+  "EscortMule": {
+    "FriendlyFireModifier": 0.1,
+    "BigHitDamageModifier": 0.5,
+    "BigHitDamageReductionThreshold": 6,
+    "NeutralDamageModifier": 0.1
+  }
 }

@@ -15,6 +15,7 @@
     180
   ],
   "ResupplyCost": 40,
+  "StartingNitra": 0,
   "ExtraLargeEnemyDamageResistance": [
     1.4,
     1.7,
@@ -44,6 +45,12 @@
     1.8,
     1.9,
     2
+  ],
+  "SmallEnemyDamageResistance": [
+    1.2,
+    1.2,
+    1.2,
+    1.2
   ],
   "EnemyDamageModifier": [
     3.8,
@@ -227,12 +234,49 @@
     "max": 14
   },
   "MinPoolSize": 24,
+  "MaxActiveElites": 0,
   "EnvironmentalDamageModifier": 1.6,
   "PointExtractionScalar": 1.6,
+  "HazardBonus": 1.33,
   "FriendlyFireModifier": 0.9,
+  "WaveStartDelayScale": 0,
   "SpeedModifier": 1.35,
   "AttackCooldownModifier": 2,
   "ProjectileSpeedModifier": 1.9,
+  "HealthRegenerationMax": 0.1,
+  "ReviveHealthRatio": 0.1,
+  "EliteCooldown": 0,
+  "EnemyDescriptors": {},
+  "EnemyPool": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "CommonEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SpecialEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "DisruptiveEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "StationaryEnemies": {
+    "clear": false,
+    "add": [],
+    "remove": []
+  },
+  "SeasonalEvents": [
+    "SE_ProspectorDrone",
+    "SE_ProspectorDataDeposit",
+    "SE_RivalBomb"
+  ],
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
     "BigHitDamageModifier": 0.75,
